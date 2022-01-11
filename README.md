@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karan-Harsh
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning OpenCv projects using python
 - 💬 Ask me about Java or Andriod Development
 - 📫 How to reach me Gmail: karanharshe577@gmail.com
